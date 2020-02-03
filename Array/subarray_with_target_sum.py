@@ -7,8 +7,6 @@ Can you do this in linear time?
 '''
 
 def find_continuous_k(list, k):
-    #list = [1, 3, 2, 5, 7, 222]
-    #k = 229
     head = 0
     tail = 0
     summation = list[head]
